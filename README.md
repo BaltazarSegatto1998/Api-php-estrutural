@@ -5,3 +5,5 @@ Api simples criada com php estrutural com objetivo de estudo.
 podemos utilizar https://resttesttest.com/ ou https://www.postman.com/ para testar os endpoints.
 
 para utlizar basta criar o banco de dados e conecta-lo via config.
+
+o endpoint será http://localhost/devnotes/api/delete.php quando tiver local.
